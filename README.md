@@ -6,7 +6,7 @@
   <p align="center">
     Python-Selenium scripts to simulate human behavior browsing websites, realistic mouse movement, entering passwords, scrolling etc
     <br />
-    <a href="https://www.youtube.com/watch?app=desktop&v=hqumter_tA4&feature=youtu.be">View Demo</a>
+    <a href="https://youtu.be/5giF2ZNZMcs">View Demo</a>
     ·
     <a href="https://github.com/binarydefense/browsingbot/issues">Report Bug</a>
     ·
