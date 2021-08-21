@@ -1,0 +1,4 @@
+bezier==2021.2.12
+numpy==1.21.1
+pyautogui==0.9.53
+selenium==4.0.0a6.post2
